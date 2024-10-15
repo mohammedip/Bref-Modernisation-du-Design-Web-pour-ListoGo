@@ -1,0 +1,118 @@
+.hero-title{
+    background-image: url("../image/hero.png");
+    background-position: center;
+    background-size: cover;
+    padding: 5rem;
+    border-radius: 2.5rem;
+    width: 84.5rem;
+
+}
+.title-section1{
+
+   text-align: center;
+   margin: auto;
+   width: 20rem;
+   padding: 1.5rem;
+}
+.img-ville-1{
+    background-image: url("../image/section2.3.png");
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 5rem;
+    border-radius: 2rem;
+    width: 0.1rem;
+    height: 6rem;
+    text-align: center;
+    position: relative;
+    margin: 10px;
+  
+}
+.ville-1{
+    position: absolute;
+    font-family: lufga;
+    text-transform: uppercase;
+    top: 0.1rem;
+    left: 1.1rem;
+    padding: 1rem;
+    letter-spacing:0.2rem;
+   
+
+}
+.img-ville-2{
+    background-image: url("../image/section2.2.png");
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 5rem;
+    border-radius: 2rem;
+    width: 0.1rem;
+    height: 6rem;
+    text-align: center;
+    position: relative;
+    margin: 10px;
+  
+}
+.ville-2{
+    position: absolute;
+    font-family: lufga;
+    text-transform: uppercase;
+    top: 0.1rem;
+    left: 2rem;
+    padding: 1rem;
+    letter-spacing:0.2rem;
+
+}
+.img-ville-3{
+    background-image: url("../image/section2.1.png");
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 5rem;
+    border-radius: 2rem;
+    width: 0.1rem;
+    height: 6rem;
+    text-align: center;
+    position: relative;
+    margin: 10px;
+    
+  
+}
+.ville-3{
+    position: absolute;
+    font-family: lufga;
+    text-transform: uppercase;
+    top: 0.1rem;
+    left: 1.2rem;
+    padding: 1rem;
+    letter-spacing:0.2rem;
+
+}
+.img-ville-4{
+    background-image: url("../image/section2.png");
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 5rem;
+    border-radius: 2rem;
+    width: 0.1rem;
+    height: 6rem;
+    text-align: center;
+    position: relative;
+    margin: 10px;
+  
+}
+.ville-4{
+    position: absolute;
+    font-family: lufga;
+    text-transform: uppercase;
+    top: 0.1rem;
+    left: 1.5rem;
+    padding: 1rem;
+    letter-spacing:0.2rem;
+
+}
+.ville{
+    display: flex;
+    
+}
